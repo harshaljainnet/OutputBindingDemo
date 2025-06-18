@@ -1,0 +1,1 @@
+Here we discuss real time example of output binding. Let's assume a user posts feedback to us through http POST API body, so we can read the feedback content in azure function. Then we can use blob-output binding to write these contents in blob
